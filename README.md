@@ -29,10 +29,6 @@
 <img align="left" alt="Vim" height="40" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"/> </a>
 
 
----
-<img align="left" alt="MilkJug's Github Stats" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=waterbottle-123&show_icons=true&hide_border=true">
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waterbottle-123)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waterbottle-123&" alt="waterbottle-123" /></p>
