@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michael or MilkJug</h1>
 <h3 align="center">A programmer and HL:A mapper</h3>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/sagan_crawford" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/sagan_crawford?logo=twitter&style=for-the-badge" alt="https://twitter.com/sagan_crawford" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sagan_crawford" target="blank"><img src="https://img.shields.io/twitter/follow/sagan_crawford?logo=twitter&style=for-the-badge" alt="sagan_crawford" /></a> </p>
 
 - 🔭 I’m currently working on [a Half-Life:Alyx project](https://www.youtube.com/watch?v=pduHWVVlJO0)
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/sagan_crawford" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/sagan_crawford" height="30" width="40" /></a>
+<a href="https://twitter.com/sagan_crawford" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sagan_crawford" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucqddmybotqu_xz0pl1sgwgq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucqddmybotqu_xz0pl1sgwgq" height="30" width="40" /></a>
 </p>
 
