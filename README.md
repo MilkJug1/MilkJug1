@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **michael.sagan.crawford@gmail.com**
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sagan_crawford" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sagan_crawford" height="30" width="40" /></a>
@@ -30,6 +29,10 @@
 <img align="left" alt="Vim" height="40" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"/> </a>
 
 
+---
+<img align="left" alt="MilkJug's Github Stats" src="https://github-readme-stats.vercel.app/api?username=waterbottle-123&show_icons=true&hide_border=true">
+
+
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waterbottle-123&" alt="waterbottle-123" /></p>
-
