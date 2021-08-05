@@ -15,6 +15,9 @@
 
 - 💬 Ask me about **c++, x86_64asm, python**
 
+- 📫 How to reach me **michael.sagan.crawford@gmail.com**
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sagan_crawford" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sagan_crawford" height="30" width="40" /></a>
