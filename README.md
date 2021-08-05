@@ -30,7 +30,7 @@
 
 
 ---
-<img align="left" alt="MilkJug's Github Stats" src="https://github-readme-stats.vercel.app/api?username=waterbottle-123&show_icons=true&hide_border=true">
+<img align="left" alt="MilkJug's Github Stats" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=waterbottle-123&show_icons=true&hide_border=true">
 
 
 
