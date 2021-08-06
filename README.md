@@ -60,6 +60,8 @@
 
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#1](https://github.com/waterbottle-123/waterbottle-123/issues/1) in [waterbottle-123/waterbottle-123](https://github.com/waterbottle-123/waterbottle-123)
+<!--END_SECTION:activity-->
 
 
 [![Milk's GitHub stats](https://github-readme-stats.vercel.app/api?username=waterbottle-123&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
