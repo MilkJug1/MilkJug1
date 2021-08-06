@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael or MilkJug</h1>
-<h3 align="center">A programmer and HL:A mapper</h3>
-
-
-
+<h3 align="center">A programmer and Source 2 mapper</h3>
 
 
 - 🔭 I’m currently working on [a Half-Life:Alyx project](https://www.youtube.com/watch?v=pduHWVVlJO0)
