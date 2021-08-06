@@ -55,6 +55,6 @@
 <img alt="arch" width="40" height="40" src="https://simpleicons.org/icons/archlinux.svg"/> </p> 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waterbottle-123)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waterbottle-123&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waterbottle-123&" alt="waterbottle-123" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waterbottle-123&theme=radical" alt="waterbottle-123" /></p>
