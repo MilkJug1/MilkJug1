@@ -59,15 +59,11 @@
 <img src="https://simpleicons.org/icons/neovim.svg" alt="nvim" width="40" height="40"/> </a> 
 
 
+<!--START_SECTION:activity-->
+
+
 [![Milk's GitHub stats](https://github-readme-stats.vercel.app/api?username=waterbottle-123&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waterbottle-123&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waterbottle-123&theme=radical" alt="waterbottle-123" /></p>
 
-<!--START_SECTION:activity-->
-
-
-
-
-
-<!--END_SECTION:activity-->
 
