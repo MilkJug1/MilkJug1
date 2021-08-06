@@ -51,10 +51,6 @@
 <img alt="arch" width="40" height="40" src="https://simpleicons.org/icons/archlinux.svg"/> </p> 
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 <a href="https://www.wxwidgets.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a>
-<img src="https://simpleicons.org/icons/neovim.svg" alt="nvim" width="40" height="40"/> </a> 
-
-
-
 <a href="https://www.gtk.org/" target="_blank"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="39"/> </a> 
 
@@ -63,9 +59,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)
-
-
-
+<img src="https://simpleicons.org/icons/neovim.svg" alt="nvim" width="40" height="40"/> </a> 
 
 
 
