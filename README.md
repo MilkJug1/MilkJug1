@@ -50,7 +50,9 @@
 <a href="https://unrealengine.com/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> 
 <a href="https://www.wxwidgets.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a>
-<img src="https://simpleicons.org/icons/neovim.svg" alt="nvim" width="40" height="40"/> </a> <img align="left" alt="Vim" height="40" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"/> </a> </p>
+<img src="https://simpleicons.org/icons/neovim.svg" alt="nvim" width="40" height="40"/> </a> 
+<img alt="Vim" height="40" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"/> </a> 
+<img alt="arch" width="40" height="40" src="https://simpleicons.org/icons/archlinux.svg"/> </p> 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waterbottle-123)](https://github.com/anuraghazra/github-readme-stats)
