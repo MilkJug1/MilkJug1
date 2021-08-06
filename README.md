@@ -2,7 +2,7 @@
 <h3 align="center">A programmer and HL:A mapper</h3>
 
 
-![YouTube](https://img.shields.io/badge/Water-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+
 
 
 - 🔭 I’m currently working on [a Half-Life:Alyx project](https://www.youtube.com/watch?v=pduHWVVlJO0)
@@ -63,6 +63,7 @@
 
 
 
+[![Milk's GitHub stats](https://github-readme-stats.vercel.app/api?username=waterbottle-123&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waterbottle-123&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
