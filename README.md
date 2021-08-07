@@ -56,7 +56,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)
-<img src="https://simpleicons.org/icons/neovim.svg" alt="nvim" width="40" height="40"/> </a> 
+
 
 
 <!--START_SECTION:activity-->
