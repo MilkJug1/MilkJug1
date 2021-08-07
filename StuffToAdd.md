@@ -1,0 +1,1 @@
+This is a place to show you the next things I wanna add to this repo go [here](https://trello.com/b/bwdwSrIU/next-stuff-to-add-to-md-file) to see more 
