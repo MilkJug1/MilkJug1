@@ -60,12 +60,12 @@
 
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/waterbottle-123/waterbottle-123/issues/1) in [waterbottle-123/waterbottle-123](https://github.com/waterbottle-123/waterbottle-123)
+1. ❗️ Closed issue [#1](https://github.com/MilkJug1/MilkJug1/issues/1) in [waterbottle-123/waterbottle-123](https://github.com/MilkJug1/MilkJug1)
 <!--END_SECTION:activity-->
 
 
-[![Milk's GitHub stats](https://github-readme-stats.vercel.app/api?username=waterbottle-123&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waterbottle-123&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waterbottle-123&theme=radical" alt="waterbottle-123" /></p>
+[![Milk's GitHub stats](https://github-readme-stats.vercel.app/api?username=MilkJug1&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MilkJug1&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MilkJug1&theme=radical" alt="waterbottle-123" /></p>
 
 
