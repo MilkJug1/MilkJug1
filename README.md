@@ -60,7 +60,7 @@
 
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/MilkJug1/MilkJug1/issues/1) in [waterbottle-123/waterbottle-123](https://github.com/MilkJug1/MilkJug1)
+1. ❗️ Closed issue [#1](https://github.com/waterbottle-123/waterbottle-123/issues/1) in [waterbottle-123/waterbottle-123](https://github.com/waterbottle-123/waterbottle-123)
 <!--END_SECTION:activity-->
 
 
