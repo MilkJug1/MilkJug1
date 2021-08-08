@@ -60,7 +60,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/MilkJug1/MyCustomOS/pull/1) in [MilkJug1/MyCustomOS](https://github.com/MilkJug1/MyCustomOS)
+1. ❗️ Opened issue [#7978](https://github.com/ValveSoftware/steam-for-linux/issues/7978) in [ValveSoftware/steam-for-linux](https://github.com/ValveSoftware/steam-for-linux)
 <!--END_SECTION:activity-->
 
 
