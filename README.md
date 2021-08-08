@@ -60,7 +60,7 @@
 
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/waterbottle-123/waterbottle-123/issues/1) in [waterbottle-123/waterbottle-123](https://github.com/waterbottle-123/waterbottle-123)
+1. 💪 Opened PR [#1](https://github.com/MilkJug1/MyCustomOS/pull/1) in [MilkJug1/MyCustomOS](https://github.com/MilkJug1/MyCustomOS)
 <!--END_SECTION:activity-->
 
 
