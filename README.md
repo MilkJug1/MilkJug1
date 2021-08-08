@@ -60,7 +60,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/MilkJug1/MyCustomOS/pull/1) in [MilkJug1/MyCustomOS](https://github.com/MilkJug1/MyCustomOS)
+1. 🎉 Merged PR [#1](https://github.com/MilkJug1/MyCustomOS/pull/1) in [MilkJug1/MyCustomOS](https://github.com/MilkJug1/MyCustomOS)
 <!--END_SECTION:activity-->
 
 
