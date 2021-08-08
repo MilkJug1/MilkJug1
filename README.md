@@ -60,7 +60,7 @@
 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7978](https://github.com/ValveSoftware/steam-for-linux/issues/7978) in [ValveSoftware/steam-for-linux](https://github.com/ValveSoftware/steam-for-linux)
+1. 🗣 Commented on [#846](https://github.com/ValveSoftware/steam-for-linux/issues/846) in [ValveSoftware/steam-for-linux](https://github.com/ValveSoftware/steam-for-linux)
 <!--END_SECTION:activity-->
 
 
