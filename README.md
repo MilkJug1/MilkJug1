@@ -60,7 +60,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#846](https://github.com/ValveSoftware/steam-for-linux/issues/846) in [ValveSoftware/steam-for-linux](https://github.com/ValveSoftware/steam-for-linux)
+1. ❗️ Opened issue [#1](https://github.com/MilkJug1/6502CPU/issues/1) in [MilkJug1/6502CPU](https://github.com/MilkJug1/6502CPU)
 <!--END_SECTION:activity-->
 
 
