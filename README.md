@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **any kind of open-source project**
 
-- 🤝 I’m looking for help with **learning Source 2 Hammmer**
+- 🤝 I’m looking for help with **reverse engineering goldeneye 007**
 
 - 👨‍💻 All of my projects are available at [here on github](here on github)
 
