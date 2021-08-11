@@ -60,7 +60,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3773](https://github.com/ValveSoftware/Proton/issues/3773) in [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
+1. 💪 Opened PR [#1](https://github.com/BuckarewBanzai/Nerf-Sentry-Gun/pull/1) in [BuckarewBanzai/Nerf-Sentry-Gun](https://github.com/BuckarewBanzai/Nerf-Sentry-Gun)
 <!--END_SECTION:activity-->
 
 
