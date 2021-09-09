@@ -62,7 +62,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2056](https://github.com/KadeDev/Kade-Engine/issues/2056) in [KadeDev/Kade-Engine](https://github.com/KadeDev/Kade-Engine)
+1. ❗️ Closed issue [#2056](https://github.com/KadeDev/Kade-Engine/issues/2056) in [KadeDev/Kade-Engine](https://github.com/KadeDev/Kade-Engine)
 <!--END_SECTION:activity-->
 
 
