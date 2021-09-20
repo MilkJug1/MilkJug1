@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **reverse engineering goldeneye 007**
 
-- 👨‍💻 All of my projects are available at [here on github](here on github)
+- 👨‍💻 All of my projects are available at [here on github](https://github.com/MilkJug1)
 
 - 💬 Ask me about **c++, x86_64asm, python**
 
