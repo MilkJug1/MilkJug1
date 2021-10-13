@@ -62,7 +62,7 @@
 
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/MilkJug1/milkjug1.github.io/pull/1) in [MilkJug1/milkjug1.github.io](https://github.com/MilkJug1/milkjug1.github.io)
+1. 🎉 Merged PR [#2](https://github.com/MilkJug1/milkjug1.github.io/pull/2) in [MilkJug1/milkjug1.github.io](https://github.com/MilkJug1/milkjug1.github.io)
 <!--END_SECTION:activity-->
 
 
