@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [a Half-Life:Alyx project](https://www.youtube.com/watch?v=pduHWVVlJO0)
 
-- 🌱 I’m currently learning **Source 2 Hammer, Reverse Engineering**
+- 🌱 I’m currently learning **Source 2 Hammer, Reverse Engineering, Rust(The programming lang), and a Website.**
 
 - 👯 I’m looking to collaborate on **any kind of open-source project**
 
