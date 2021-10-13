@@ -62,7 +62,7 @@
 
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2056](https://github.com/KadeDev/Kade-Engine/issues/2056) in [KadeDev/Kade-Engine](https://github.com/KadeDev/Kade-Engine)
+1. ❌ Closed PR [#1](https://github.com/MilkJug1/milkjug1.github.io/pull/1) in [MilkJug1/milkjug1.github.io](https://github.com/MilkJug1/milkjug1.github.io)
 <!--END_SECTION:activity-->
 
 
