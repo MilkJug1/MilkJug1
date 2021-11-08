@@ -61,7 +61,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/MilkJug1/milkjug1.github.io/pull/2) in [MilkJug1/milkjug1.github.io](https://github.com/MilkJug1/milkjug1.github.io)
+1. 🗣 Commented on [#946](https://github.com/ValveSoftware/Proton/issues/946) in [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
 <!--END_SECTION:activity-->
 
 
