@@ -20,6 +20,11 @@
 
 # Videos
 <!-- YOUTUBE:START -->
+- [Oculus Link for Linux update](https://www.youtube.com/watch?v=OpXbLwXQymM)
+- [Trying to get Oculus Link working on Linux.](https://www.youtube.com/watch?v=LaIlQY0rEZk)
+- [1:18 speedcube solve &lpar;not the fastest but my PB&rpar;](https://www.youtube.com/watch?v=qUWz8sJk54k)
+- [Beating all of the L4D2 campaign w/o mods](https://www.youtube.com/watch?v=wxMGGTMU1F0)
+- [Programming Something in Rust and maybe a Website](https://www.youtube.com/watch?v=H-uajl8w0V0)
 <!-- YOUTUBE:END -->
 
 
