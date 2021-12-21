@@ -71,12 +71,13 @@
 
 
 # Latest Blog Posts:
-<!-- BLOG-POST-LIST:START -->
+
 [A Whole New Beginning](https://milkjug1.github.io/21-blog3.html)
+
 [Projects I've done and What I do](https://milkjug1.github.io/blog2.html)
+
 [First Post](https://milkjug.github.io/blog3.html)
 
 
-<!-- BLOG-POST-LIST:END -->
 
 
