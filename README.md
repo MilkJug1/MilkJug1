@@ -20,11 +20,11 @@
 
 # Videos
 <!-- YOUTUBE:START -->
+- [Goldeneye: Source | How is it in 2021, is it dead? Is the game good?](https://www.youtube.com/watch?v=uLm-vqK9wnM)
 - [Introduction to My Channel *REMAKE*](https://www.youtube.com/watch?v=rcq3PrlXaiI)
 - [Goldeneye Source Night](https://www.youtube.com/watch?v=6nYswZlr1gY)
 - [Goldeneye Source Night](https://www.youtube.com/watch?v=H8NotW1_ONo)
 - [Oculus Link for Linux update](https://www.youtube.com/watch?v=OpXbLwXQymM)
-- [Trying to get Oculus Link working on Linux.](https://www.youtube.com/watch?v=LaIlQY0rEZk)
 <!-- YOUTUBE:END -->
 
 
