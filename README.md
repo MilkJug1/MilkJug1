@@ -20,11 +20,11 @@
 
 # Videos
 <!-- YOUTUBE:START -->
+- [R6 Ace replay #1](https://www.youtube.com/watch?v=BRNup8DzYg0)
 - [Goldeneye: Source | How is it in 2021, is it dead? Is the game good?](https://www.youtube.com/watch?v=uLm-vqK9wnM)
 - [Introduction to My Channel *REMAKE*](https://www.youtube.com/watch?v=rcq3PrlXaiI)
 - [Goldeneye Source Night](https://www.youtube.com/watch?v=6nYswZlr1gY)
 - [Goldeneye Source Night](https://www.youtube.com/watch?v=H8NotW1_ONo)
-- [Oculus Link for Linux update](https://www.youtube.com/watch?v=OpXbLwXQymM)
 <!-- YOUTUBE:END -->
 
 
