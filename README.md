@@ -82,6 +82,8 @@
 
 # Latest Blog Posts:
 
+[New things, stuff, and more](https://milkjug1.github.io/blog4.html)
+
 [A Whole New Beginning](https://milkjug1.github.io/21-blog3.html)
 
 [Projects I've done and What I do](https://milkjug1.github.io/blog2.html)
