@@ -71,7 +71,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/MilkJug1/milkjug1.github.io/pull/3) in [MilkJug1/milkjug1.github.io](https://github.com/MilkJug1/milkjug1.github.io)
+1. 🗣 Commented on [#1](https://github.com/MilkJug1/OculusDllInjection/issues/1) in [MilkJug1/OculusDllInjection](https://github.com/MilkJug1/OculusDllInjection)
 <!--END_SECTION:activity-->
 
 
