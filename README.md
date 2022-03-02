@@ -71,7 +71,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/MilkJug1/OculusDllInjection/issues/1) in [MilkJug1/OculusDllInjection](https://github.com/MilkJug1/OculusDllInjection)
+1. 🎉 Merged PR [#1](https://github.com/MilkJug1/OculusLinkLinux/pull/1) in [MilkJug1/OculusLinkLinux](https://github.com/MilkJug1/OculusLinkLinux)
 <!--END_SECTION:activity-->
 
 
