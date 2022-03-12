@@ -31,8 +31,6 @@
 ### Connect With Me!
 ![Twitter Follow](https://img.shields.io/twitter/follow/Jug1Milk?color=%231DA1F2&logo=Twitter&style=for-the-badge)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQddmybOTQu_xz0Pl1sgwGQ?color=%23FF0000&label=Water&logo=Youtube&logoColor=%23FF0000&style=for-the-badge)
-[![YouTube channel](youtube-milkjug.svg)](https://www.youtube.com/channel/UCQddmybOTQu_xz0Pl1sgwGQ)
-[Youtube](https://www.youtube.com/channel/UCQddmybOTQu_xz0Pl1sgwGQ)
 
 ### Lanuages
 <img alt="sh" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
