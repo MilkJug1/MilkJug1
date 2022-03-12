@@ -2,15 +2,13 @@
 <h3 align="center">A programmer and Source 2 mapper</h3>
 
 
-- 🔭 I’m currently working on [a Half-Life:Alyx project](https://www.youtube.com/watch?v=pduHWVVlJO0)
+- 🔭 I’m currently working on [a Half-Life:Alyx project](https://www.youtube.com/watch?v=pduHWVVlJO0) and [OculusLinkforLinux](https://github.com/MilkJug1/OculusLinkLinux)
 
 - 🌱 I’m currently learning **Source 2 Hammer, Reverse Engineering, Rust(The programming lang), and a Website.**
 
 - 👯 I’m looking to collaborate on **any kind of open-source project**
 
-- 🤝 I’m looking for help with **reverse engineering goldeneye 007**
-
-- 👨‍💻 All of my projects are available at [here on github](https://github.com/MilkJug1)
+- 🤝 I’m looking for help with **VR things*
 
 - 💬 Ask me about **c++, x86_64asm, python**
 
