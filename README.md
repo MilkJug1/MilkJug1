@@ -70,7 +70,7 @@
 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/MilkJug1/OculusLinkLinux/issues/6) in [MilkJug1/OculusLinkLinux](https://github.com/MilkJug1/OculusLinkLinux)
+1. 🗣 Commented on [#7](https://github.com/MilkJug1/OculusLinkLinux/issues/7) in [MilkJug1/OculusLinkLinux](https://github.com/MilkJug1/OculusLinkLinux)
 <!--END_SECTION:activity-->
 
 
