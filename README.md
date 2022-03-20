@@ -70,7 +70,7 @@
 
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#9](https://github.com/MilkJug1/OculusLinkLinux/pull/9) in [MilkJug1/OculusLinkLinux](https://github.com/MilkJug1/OculusLinkLinux)
+1. 💪 Opened PR [#10](https://github.com/MilkJug1/OculusLinkLinux/pull/10) in [MilkJug1/OculusLinkLinux](https://github.com/MilkJug1/OculusLinkLinux)
 <!--END_SECTION:activity-->
 
 
