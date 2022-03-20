@@ -20,11 +20,11 @@
 
 # Videos
 <!-- YOUTUBE:START -->
+- [How to build OLL from source](https://www.youtube.com/watch?v=NJ47uKRTMWw)
 - [Oculus Link for Linux Development](https://www.youtube.com/watch?v=H6uDGJlGkCs)
 - [Oculus Link for Linux Update #2](https://www.youtube.com/watch?v=TIE0YpATruY)
 - [R6 Ace replay #1](https://www.youtube.com/watch?v=BRNup8DzYg0)
 - [Goldeneye: Source | How is it in 2021, is it dead? Is the game good?](https://www.youtube.com/watch?v=uLm-vqK9wnM)
-- [Introduction to My Channel *REMAKE*](https://www.youtube.com/watch?v=rcq3PrlXaiI)
 <!-- YOUTUBE:END -->
 
 
