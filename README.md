@@ -78,7 +78,6 @@
 # Videos
 
 <!-- YOUTUBE:START -->
-
 - [Beavis TF2: Part 2](https://www.youtube.com/watch?v=qAXBAOiejck)
 - [How to build OLL from source](https://www.youtube.com/watch?v=NJ47uKRTMWw)
 - [Oculus Link for Linux Development](https://www.youtube.com/watch?v=H6uDGJlGkCs)
