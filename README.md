@@ -78,9 +78,9 @@
 # Videos
 
 <!-- YOUTUBE:START -->
+- [Oculus Link for Linux | Update #3](https://www.youtube.com/watch?v=6O4C0iUcd2E)
 - [Beavis TF2: Part 2](https://www.youtube.com/watch?v=qAXBAOiejck)
 - [How to build OLL from source](https://www.youtube.com/watch?v=NJ47uKRTMWw)
 - [Oculus Link for Linux Development](https://www.youtube.com/watch?v=H6uDGJlGkCs)
 - [Oculus Link for Linux Update #2](https://www.youtube.com/watch?v=TIE0YpATruY)
-- [R6 Ace replay #1](https://www.youtube.com/watch?v=BRNup8DzYg0)
 <!-- YOUTUBE:END -->
