@@ -11,7 +11,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#14](https://github.com/MilkJug1/OculusLinkLinux/pull/14) in [MilkJug1/OculusLinkLinux](https://github.com/MilkJug1/OculusLinkLinux)
+1. 🗣 Commented on [#7](https://github.com/MilkJug1/OculusLinkLinux/issues/7) in [MilkJug1/OculusLinkLinux](https://github.com/MilkJug1/OculusLinkLinux)
 <!--END_SECTION:activity-->
 
 [![Milk's GitHub stats](https://github-readme-stats.vercel.app/api?username=MilkJug1&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
