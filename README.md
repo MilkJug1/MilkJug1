@@ -81,6 +81,6 @@
 - [Oculus Link for Linux | Update #3](https://www.youtube.com/watch?v=6O4C0iUcd2E)
 - [Beavis TF2: Part 2](https://www.youtube.com/watch?v=qAXBAOiejck)
 - [How to build OLL from source](https://www.youtube.com/watch?v=NJ47uKRTMWw)
+- [Arduino Programming, along w/Some Special Things.](https://www.youtube.com/watch?v=YOdoh9YLoUg)
 - [Oculus Link for Linux Development](https://www.youtube.com/watch?v=H6uDGJlGkCs)
-- [Oculus Link for Linux Update #2](https://www.youtube.com/watch?v=TIE0YpATruY)
 <!-- YOUTUBE:END -->
