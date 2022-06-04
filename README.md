@@ -11,7 +11,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/MilkJug1/DwmFiles/pull/1) in [MilkJug1/DwmFiles](https://github.com/MilkJug1/DwmFiles)
+1. ❗️ Opened issue [#17](https://github.com/MilkJug1/OculusLinkLinux/issues/17) in [MilkJug1/OculusLinkLinux](https://github.com/MilkJug1/OculusLinkLinux)
 <!--END_SECTION:activity-->
 
 [![Milk's GitHub stats](https://github-readme-stats.vercel.app/api?username=MilkJug1&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
