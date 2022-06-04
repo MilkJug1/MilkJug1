@@ -11,7 +11,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#96](https://github.com/siduck/chadwm/issues/96) in [siduck/chadwm](https://github.com/siduck/chadwm)
+1. 🎉 Merged PR [#1](https://github.com/MilkJug1/DwmFiles/pull/1) in [MilkJug1/DwmFiles](https://github.com/MilkJug1/DwmFiles)
 <!--END_SECTION:activity-->
 
 [![Milk's GitHub stats](https://github-readme-stats.vercel.app/api?username=MilkJug1&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
