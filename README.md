@@ -6,7 +6,11 @@
 - I deal alot with C/C++, x86_64asm, and Linux things.
 - I am a huge Linux nerd
 - I don't understand Web Dev
-- Fun Facts: NTFS is older than you
+- Fun Fact: I hate Windows with a passion and will do anything to try and not use it, I also prefer using terminal text editors
+
+## About Me 
+
+Someone who really likes tinkering with stuff and seeing how stuff works, one of the reasons why I've learned programming. I enjoy low level languages such as C++, C, Rust, and such other ones. Working low level, for me, is really amazing sometimes. I also dabble a bit with Python here and there just for some mockups. I really like building my own things, whether that be applications, my own game framework/engine, to even libraries. It's fun to recreate things to see the effort that gets put into such projects. Linux Nerd and FOSS nerd too. 
 
 
 <!--START_SECTION:activity-->
@@ -34,14 +38,16 @@
 ### Connect With Me
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Jug1Milk?color=%231DA1F2&logo=Twitter&style=for-the-badge)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQddmybOTQu_xz0Pl1sgwGQ?color=%23FF0000&label=Water&logo=Youtube&logoColor=%23FF0000&style=for-the-badge)
+[Youtube Channel](https://www.youtube.com/@MilkJug12/featured)
 
 ### Languages
 
 <img alt="sh" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
 <img alt="cpp" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
@@ -53,7 +59,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
@@ -63,17 +68,10 @@
 <img src="https://simpleicons.org/icons/blender.svg" height="40" width="40">
 <img alt="arch" width="40" height="40" src="https://simpleicons.org/icons/archlinux.svg"/> </p>
 
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-<a href="https://www.wxwidgets.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a>
-<a href="https://www.gtk.org/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="39"/> </a>
-
 ### IDE'S
 
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)
 
 # Videos
 
