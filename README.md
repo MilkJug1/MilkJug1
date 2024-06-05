@@ -5,8 +5,8 @@
 - I learned Source 2 Mapping
 - I deal alot with C/C++, x86_64asm, and Linux things.
 - I am a huge Linux nerd
-- I don't understand Web Dev
-- Fun Fact: I hate Windows with a passion and will do anything to try and not use it, I also prefer using terminal text editors
+- I somewhat understand Web Dev
+- Fun Fact: When I'm not playing and or working on my projects, I am usually working out. I strive to be fit and workout whenever possible. Another fun fact, I have a missing muscle
 
 ## About Me 
 
