@@ -83,6 +83,5 @@ Someone who really likes tinkering with stuff and seeing how stuff works, one of
 - [Oculus Link for Linux Update #2](https://www.youtube.com/watch?v=TIE0YpATruY)
 <!-- YOUTUBE:END -->
 
-
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/MilkJug1/blob/main/dark-is-coming-for-you.gif');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 500vh; object-fit: fill; background-size: cover; background-repeat: no-repeat;width: 290vw; opacity: 0.65; background: url('https://github.com/MilkJug1/MilkJug1/blob/main/endportal.gif?raw=true');]{x0000}$}
